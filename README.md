@@ -1,3 +1,11 @@
+This is the second assignment for internship recruitment from The Product Company.
+This is a React web app displaying a corporate information dashboard. It also lets user can also edit their information.
+The following technolgies are used to build this application:
+*[React.js](https://react.dev/)
+*[Material UI](https://mui.com/material-ui/)
+*[react-hook-form](https://www.react-hook-form.com/)
+*[react-router-dom](https://reactrouter.com/en/main)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
