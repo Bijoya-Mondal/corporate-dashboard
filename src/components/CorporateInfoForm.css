@@ -1,0 +1,18 @@
+label{
+    margin-bottom: 7px;
+    display: flex;
+    font-size: 15px;
+}
+
+.asterisk{
+    color: red;
+}
+
+#outlined-basic {
+    
+    padding: 9.5px 10px;
+}
+
+#date-picker{
+    height: 14px;
+}
